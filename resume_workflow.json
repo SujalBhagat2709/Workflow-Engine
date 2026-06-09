@@ -1,0 +1,22 @@
+{
+    "name": "Resume Processing",
+
+    "steps": [
+
+        {
+            "action": "Extract Text"
+        },
+
+        {
+            "action": "Find Skills"
+        },
+
+        {
+            "action": "Generate Report"
+        },
+
+        {
+            "action": "Save Output"
+        }
+    ]
+}
